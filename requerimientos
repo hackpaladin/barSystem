@@ -1,15 +1,3 @@
 
-Introduccion
-    se va a realizar un programa para el manejo de inventarios y ventas de un bar, aqui se plantea el problema desde la 
-    perspectiva del administrador del local, el cual necesita llevar un control del licor almacenado y vendido, usando
-    una herramienta tecnologica para el control de ello
-    
-    
-Propositos del sistema
-    principalmente se necesita manejar la informacion relacionada con el bar, con el fin de llevar un control de los
-    inventarios de licor que maneja el bar, y de las ventas que este hace, de acuerdo a las mesas que se poseen, asi 
-    mismo como el control de los precios de adquicicion y de venta ademas del manejo de la informacion de los prooveedores
-    y de las cuentas por pagar a estos
-    El sistema debe almenos generar una factura virtual como comprobante de la transaccion
     
     
